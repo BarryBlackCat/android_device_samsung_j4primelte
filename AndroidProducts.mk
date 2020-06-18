@@ -14,8 +14,8 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/havoc_j4primelte.mk
+    $(LOCAL_DIR)/aosp_j4primelte.mk
 
 COMMON_LUNCH_CHOICES := \
-    havoc_j4primelte-userdebug \
-    havoc_j4primelte-eng
+    aosp_j4primelte-userdebug \
+    aosp_j4primelte-eng
