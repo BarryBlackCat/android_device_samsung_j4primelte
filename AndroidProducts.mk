@@ -14,8 +14,8 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_j6primelte.mk
+    $(LOCAL_DIR)/aosp_j4primelte.mk
 
 COMMON_LUNCH_CHOICES := \
-aosp_j6primelte-userdebug \
-aosp_j6primelte-eng 
+aosp_j4primelte-userdebug \
+aosp_j4primelte-eng 
