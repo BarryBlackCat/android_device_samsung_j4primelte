@@ -16,7 +16,7 @@
 DEVICE_PATH := device/samsung/j4primelte
 
 # Kernel
-TARGET_KERNEL_CONFIG := j4primelte_defconfig
+TARGET_KERNEL_CONFIG := j4primelte_caf_defconfig
 
 # Filesystem
 BOARD_SYSTEMIMAGE_PARTITION_SIZE := 2453520000
